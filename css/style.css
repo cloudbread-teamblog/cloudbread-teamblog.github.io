@@ -70,7 +70,7 @@ body {
 
 .container, .container-inner {
 	width: 100%;
-	max-width: 1080px;
+	max-width: 1380px;
 	margin: 0 auto;
 	position: relative;
 }
@@ -1086,4 +1086,28 @@ textarea {
 	.loop__excerpt {
 		display: none;
 	}
+}
+
+.label {
+  display: inline;
+  padding: .2em .6em .3em;
+  font-size: 75%;
+  font-weight: bold;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+	background-color: #313131;
+}
+
+a.label:hover,
+a.label:focus {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.label:empty {
+  display: none;
 }
