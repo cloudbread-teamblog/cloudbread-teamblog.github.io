@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/oracloud.kr/post/good-to-great/</loc>
+    <loc>/post/good-to-great/</loc>
     <lastmod>2017-04-03T16:50:52+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/oracloud.kr/post/welcome/</loc>
+    <loc>/post/welcome/</loc>
     <lastmod>2017-04-03T16:50:52+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/oracloud.kr/tags/merong/</loc>
-    <lastmod>2017-04-03T16:50:52+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/oracloud.kr/post/</loc>
+    <loc>/tags/merong/</loc>
     <lastmod>2017-04-03T16:50:52+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/oracloud.kr/tags/</loc>
+    <loc>/post/</loc>
+    <lastmod>2017-04-03T16:50:52+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/oracloud.kr/</loc>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2017-04-03T16:50:52+09:00</lastmod>
     <priority>0</priority>
   </url>
