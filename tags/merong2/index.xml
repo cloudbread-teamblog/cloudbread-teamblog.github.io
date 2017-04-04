@@ -2,29 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Merong2 on 한국 오라클 클라우드 팀</title>
-    <link>/tags/merong2/index.xml</link>
+    <link>http://localhost:1313/tags/merong2/index.xml</link>
     <description>Recent content in Merong2 on 한국 오라클 클라우드 팀</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/merong2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/merong2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>오라클 클라우드 테스트</title>
-      <link>/post/good-to-great/</link>
+      <link>http://localhost:1313/post/good-to-great/</link>
       <pubDate>Mon, 03 Apr 2017 16:50:52 +0900</pubDate>
       
-      <guid>/post/good-to-great/</guid>
+      <guid>http://localhost:1313/post/good-to-great/</guid>
       <description>
 
 &lt;h2 id=&#34;하이닉스&#34;&gt;하이닉스&lt;/h2&gt;
 
 &lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+ddd&lt;/p&gt;
+public static void main(String args[]){
+
+}
 
 &lt;h2 id=&#34;kk&#34;&gt;kk&lt;/h2&gt;
 
 &lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;br /&gt;
 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
 

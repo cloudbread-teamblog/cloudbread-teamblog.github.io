@@ -2,70 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>한국 오라클 클라우드 팀</title>
-    <link>/index.xml</link>
+    <link>http://localhost:1313/index.xml</link>
     <description>Recent content on 한국 오라클 클라우드 팀</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Apr 2017 16:50:52 +0900</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2017 03:54:58 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>aaaaaaaaa</title>
-      <link>/post/test/</link>
-      <pubDate>Mon, 03 Apr 2017 16:50:52 +0900</pubDate>
+      <title>오브젝트 스토리지 사용하기</title>
+      <link>http://localhost:1313/post/object_storage/</link>
+      <pubDate>Tue, 04 Apr 2017 03:54:58 +0900</pubDate>
       
-      <guid>/post/test/</guid>
-      <description>
+      <guid>http://localhost:1313/post/object_storage/</guid>
+      <description>&lt;p&gt;오라크클라우드는 object storage 를 제공합니다. 사용하기 위우며 애무 편기르란 기능을 젝공하는 서비스 입니다.&lt;/p&gt;
 
-&lt;h2 id=&#34;하이닉스&#34;&gt;하이닉스&lt;/h2&gt;
+&lt;p&gt;우리에 소원은 통일 &amp;hellip;자라 깨자 소원은 통일
+오라크클라우드는 object storage 를 제공합니다. 사용하기 위우며 애무 편기르란 기능을 젝공하는 서비스 입니다.&lt;/p&gt;
 
-&lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;우리에 소원은 통일 &amp;hellip;자라 깨자 소원은 통일오라크클라우드는 object storage 를 제공합니다. 사용하기 위우며 애무 편기르란 기능을 젝공하는 서비스 입니다.&lt;/p&gt;
 
-&lt;h2 id=&#34;kk&#34;&gt;kk&lt;/h2&gt;
+&lt;p&gt;우리에 소원은 통일 &amp;hellip;자라 깨자 소원은 통일오라크클라우드는 object storage 를 제공합니다. 사용하기 위우며 애무 편기르란 기능을 젝공하는 서비스 입니다.&lt;/p&gt;
 
-&lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;우리에 소원은 통일 &amp;hellip;자라 깨자 소원은 통일오라크클라우드는 object storage 를 제공합니다. 사용하기 위우며 애무 편기르란 기능을 젝공하는 서비스 입니다.&lt;/p&gt;
 
-&lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;우리에 소원은 통일 &amp;hellip;자라 깨자 소원은 통일오라크클라우드는 object storage 를 제공합니다. 사용하기 위우며 애무 편기르란 기능을 젝공하는 서비스 입니다.&lt;/p&gt;
 
-&lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;우리에 소원은 통일 &amp;hellip;자라 깨자 소원은 통일오라크클라우드는 object storage 를 제공합니다. 사용하기 위우며 애무 편기르란 기능을 젝공하는 서비스 입니다.&lt;/p&gt;
+
+&lt;p&gt;우리에 소원은 통일 &amp;hellip;자라 깨자 소원은 통일
+ss&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;java&#34;&gt;
+publi static void main(String args[]){
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;json&#34;&gt;
+{
+  a: &#34;kkk&#34;,
+  b: &#34;meorng&#34;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;apache&#34;&gt;
+# rewrite`s rules for wordpress pretty url
+LoadModule rewrite_module  modules/mod_rewrite.so
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [NC,L]
+
+ExpiresActive On
+ExpiresByType application/x-javascript  &#34;access plus 1 days&#34;
+
+Order Deny,Allow
+Allow from All
+
+&lt;Location /maps/&gt;
+  RewriteMap map txt:map.txt
+  RewriteMap lower int:tolower
+  RewriteCond %{REQUEST_URI} ^/([^/.]+)\.html$ [NC]
+  RewriteCond ${map:${lower:%1}|NOT_FOUND} !NOT_FOUND
+  RewriteRule .? /index.php?q=${map:${lower:%1}} [NC,L]
+&lt;/Location&gt;
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
     <item>
       <title>오라클 클라우드 테스트</title>
-      <link>/post/good-to-great/</link>
+      <link>http://localhost:1313/post/good-to-great/</link>
       <pubDate>Mon, 03 Apr 2017 16:50:52 +0900</pubDate>
       
-      <guid>/post/good-to-great/</guid>
+      <guid>http://localhost:1313/post/good-to-great/</guid>
       <description>
 
 &lt;h2 id=&#34;하이닉스&#34;&gt;하이닉스&lt;/h2&gt;
 
 &lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+ddd&lt;/p&gt;
+public static void main(String args[]){
+
+}
 
 &lt;h2 id=&#34;kk&#34;&gt;kk&lt;/h2&gt;
 
 &lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
-동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;br /&gt;
 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
 
@@ -91,10 +116,10 @@
     
     <item>
       <title>우라하하하하하하</title>
-      <link>/post/welcome/</link>
+      <link>http://localhost:1313/post/welcome/</link>
       <pubDate>Mon, 03 Apr 2017 16:50:52 +0900</pubDate>
       
-      <guid>/post/welcome/</guid>
+      <guid>http://localhost:1313/post/welcome/</guid>
       <description>
 
 &lt;h2 id=&#34;hihidee&#34;&gt;hihidee&lt;/h2&gt;
@@ -119,6 +144,48 @@
                 우리 민수 이쁜 민수 테완 민스 우하하하하하
                  우리 민수 이쁜 민수 테완 민스 우하하하하하
                   우리 민수 이쁜 민수 테완 민스 우하하하하하&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>한국 사랑 동해 쫑쫑쫑 머쉬롬</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Mon, 03 Apr 2017 16:50:52 +0900</pubDate>
+      
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>
+
+&lt;h2 id=&#34;하이닉스&#34;&gt;하이닉스&lt;/h2&gt;
+
+&lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+하사 우리 나라만세 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
+
+&lt;h2 id=&#34;kk&#34;&gt;kk&lt;/h2&gt;
+
+&lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라만세&amp;hellip;.&lt;/p&gt;
 </description>
     </item>
     
